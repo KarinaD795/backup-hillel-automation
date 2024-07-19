@@ -14,7 +14,7 @@ public class TestAnnotation {
 
     @Test
     public void test(){
-        System.out.println("our first test");
+        System.out.println("our first test test test");
     }
 
     @Test
