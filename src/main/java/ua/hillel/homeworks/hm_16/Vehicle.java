@@ -1,6 +1,8 @@
 package ua.hillel.homeworks.hm_16;
 
 public abstract class Vehicle {
+
+
     private String brand;
     private String name;
     private int year;

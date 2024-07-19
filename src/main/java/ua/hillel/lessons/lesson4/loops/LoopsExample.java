@@ -2,7 +2,7 @@ package ua.hillel.lessons.lesson4.loops;
 
 public class LoopsExample {
     public static void main(String[] args) {
-       forEachExampleWithArray2();
+       forExample();
     }
 
     //    public  static void doWhileExample(){

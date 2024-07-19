@@ -6,8 +6,11 @@ public class ContinueExample {
             System.out.println(i + " я выполнюсь перед континью");
             if (i>2)
                 continue;
-            System.out.println("   " + i + " я выполнюсь всего 2 раза");
-            System.out.println("hello world");
+                System.out.println("   " + i + " я выполнюсь всего 2 раза");
+                System.out.println("hello world");
+
+//                continue;
+
         }
     }
 }

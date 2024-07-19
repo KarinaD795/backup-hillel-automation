@@ -2,8 +2,14 @@ package ua.hillel.lessons.lesson13.enums;
 
 public enum BorderMenu {
 
-    MAIN,
-    PRODUCTS,
-    CONTACTS;
+    MAIN ("ft"),
+    PRODUCTS ("m"),
+    CONTACTS ("in");
+
+    BorderMenu(String meassure) {
+        this.meassure = meassure;
+    }
+
+    String meassure;
 
 }

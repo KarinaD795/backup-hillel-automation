@@ -19,11 +19,11 @@ public class Launch {
         String page =scanner.nextLine();
         for (BorderMenu b : BorderMenu.values()) {
             if (b.name().equalsIgnoreCase(page)){
-                System.out.println("Transfer to main page");
+                System.out.println("Transfer to "+ b.name() +" page");
+                break;
             } else {
                 System.out.println("Unknown Page");
             }
-            break;
         }
     }
 

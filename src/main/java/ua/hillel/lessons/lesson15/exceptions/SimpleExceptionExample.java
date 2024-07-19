@@ -1,8 +1,6 @@
 package ua.hillel.lessons.lesson15.exceptions;
 
 
-import java.io.FileWriter;
-import java.io.IOException;
 import java.util.Scanner;
 
 public class SimpleExceptionExample {
@@ -19,7 +17,7 @@ public class SimpleExceptionExample {
         int[] a = {3, 4, 6};
 
         try {
-            System.out.println(a[b] / 0);
+            System.out.println(a[b] );
         } catch (ArrayIndexOutOfBoundsException | ArithmeticException e) {
             System.out.println("Something happened");
 
