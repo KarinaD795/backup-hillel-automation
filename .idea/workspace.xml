@@ -4,142 +4,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b46c81b6-49db-4f6c-854a-4ec8fefa31cb" name="Changes" comment="lesson 32 (update pom)">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/homeworks/hm1/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson4/loops/WhileLoop.java" afterDir="false" />
+    <list default="true" id="b46c81b6-49db-4f6c-854a-4ec8fefa31cb" name="Changes" comment="initial commit">
+      <change afterPath="$PROJECT_DIR$/allure-results/0d6e5d36-4c20-45dc-b27c-68907a698497-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/205bd0ae-fcf6-442e-9797-aff86a789364-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/26d46438-2b47-42cf-83a8-4f4d85f561dd-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/2b7f12d8-e430-487a-abd5-7b8952ae336f-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/9eddaf96-7366-4ae6-84c6-60292f095a15-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/ab888dae-5c0f-4f16-92f0-bca3a01bdae3-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/c4abe299-7d31-40d5-843b-3374509d86e4-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/cc254cba-fd4f-437b-89c6-21fe11b6e229-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/cff7bd38-3ec7-4a91-b425-c6cb7683e605-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/d56de4b5-1f9f-41d6-a52f-b48692bc4bb5-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/e021e4bb-b5af-49ca-b3bf-98130635c889-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/f36ece98-a538-466e-b05a-cf8a1c0a1250-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/1697407282545.0.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/1697407282545.0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/1697407371469.0.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/1697407371469.0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/1697408504353.0.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/1697408504353.0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/1697619243276.0.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hillel_0906.iml" beforeDir="false" afterPath="$PROJECT_DIR$/hillel_0906.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ua/hillel/homeworks/hm_16/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/homeworks/hm_16/Vehicle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson13/ContinueExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson13/ContinueExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson13/enums/BorderMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson13/enums/BorderMenu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson13/enums/Launch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson13/enums/Launch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson15/exceptions/SimpleExceptionExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson15/exceptions/SimpleExceptionExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson15/list/ListExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson15/list/ListExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson4/loops/LoopsExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson4/loops/LoopsExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson5/twodimarray/DimArrayExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lessons/lesson5/twodimarray/DimArrayExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/lesson28/FirstSelenideTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/lesson28/FirstSelenideTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/hillel/homeworks/hm1/HM1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/hillel/homeworks/hm1/HM1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/hillel/homeworks/hm1/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/hillel/homeworks/hm1/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/hillel/homeworks/hm1/Test2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/hillel/homeworks/hm1/Test2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/hillel/homeworks/hm10/ReturnValues.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/hillel/homeworks/hm10/ReturnValues.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/hillel/homeworks/hm11/ShowArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/hillel/homeworks/hm11/ShowArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/hillel/homeworks/hm13/ShowInputs.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/hillel/homeworks/hm13/ShowInputs.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/hillel/homeworks/hm14/Calculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/hillel/homeworks/hm14/Calculator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/hillel/homeworks/hm15/Program.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/hillel/homeworks/hm15/Program.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/hillel/homeworks/hm15/Task.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/hillel/homeworks/hm15/Task.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/hillel/homeworks/hm16/ArrayRandom.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/hillel/homeworks/hm16/ArrayRandom.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/hillel/homeworks/hm18/BubleSort1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/hillel/homeworks/hm18/BubleSort1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/hillel/homeworks/hm19/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/hillel/homeworks/hm19/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/hillel/homeworks/hm1H/Test3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/hillel/homeworks/hm1H/Test3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/hillel/homeworks/hm2/HM2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/hillel/homeworks/hm2/HM2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/hillel/homeworks/hm20/HappyNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/hillel/homeworks/hm20/HappyNumber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/hillel/homeworks/hm3/HM3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/hillel/homeworks/hm3/HM3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/hillel/homeworks/hm4/HW4.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/hillel/homeworks/hm4/HW4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/hillel/homeworks/hm5/ShowNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/hillel/homeworks/hm5/ShowNumbers.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/hillel/homeworks/hm8/WhileExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/hillel/homeworks/hm8/WhileExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/hillel/homeworks/hm9/MultiplicationTable.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/hillel/homeworks/hm9/MultiplicationTable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/hillel/homeworks/hm_16/Bicycle.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/hillel/homeworks/hm_16/Bicycle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/hillel/homeworks/hm_16/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/hillel/homeworks/hm_16/Car.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/hillel/homeworks/hm_16/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/hillel/homeworks/hm_16/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/hillel/homeworks/hm_16/Vehicle.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/hillel/homeworks/hm_16/Vehicle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/hillel/homeworks/hm_18/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/hillel/homeworks/hm_18/Client.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/hillel/homeworks/hm_18/Entrepreneurs.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/hillel/homeworks/hm_18/Entrepreneurs.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/hillel/homeworks/hm_18/Individuals.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/hillel/homeworks/hm_18/Individuals.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/hillel/homeworks/hm_18/Juridical.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/hillel/homeworks/hm_18/Juridical.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/hillel/homeworks/hm_18/Launch.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/hillel/homeworks/hm_18/Launch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson1/Decrement.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson1/Decrement.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson1/Increment.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson1/Increment.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson1/MyFirstClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson1/MyFirstClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson1/PostPrefix.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson1/PostPrefix.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson10/LogicalOperatots.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson10/LogicalOperatots.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson10/Ternary.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson10/Ternary.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson10/constructots/explicit/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson10/constructots/explicit/Animal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson10/constructots/explicit/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson10/constructots/explicit/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson10/constructots/implicit/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson10/constructots/implicit/Animal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson12/AboutBreak.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson12/AboutBreak.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson12/Recursion.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson12/Recursion.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson13/ContinueExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson13/ContinueExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson13/abstractExample/Bmw.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson13/abstractExample/Bmw.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson13/abstractExample/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson13/abstractExample/Car.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson13/abstractExample/CarController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson13/abstractExample/CarController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson13/abstractExample/Honda.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson13/abstractExample/Honda.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson13/abstractExample/Infiniti.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson13/abstractExample/Infiniti.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson13/abstractExample/Launch.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson13/abstractExample/Launch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson13/enums/BorderMenu.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson13/enums/BorderMenu.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson13/enums/EnumWithConstructor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson13/enums/EnumWithConstructor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson13/enums/Launch$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson13/enums/Launch$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson13/enums/Launch.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson13/enums/Launch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson13/enums/LaunchForEnumWithConstructor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson13/enums/LaunchForEnumWithConstructor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson13/interfaceExample/Bmw.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson13/interfaceExample/Bmw.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson13/interfaceExample/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson13/interfaceExample/Car.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson13/interfaceExample/Launch.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson13/interfaceExample/Launch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson13/interfaceExample/TaxiController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson13/interfaceExample/TaxiController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson13/interfaceExample/Toyota.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson13/interfaceExample/Toyota.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson14/MyStudents.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson14/MyStudents.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson14/initilizationblock/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson14/initilizationblock/Dog.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson14/initilizationblock/Launch.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson14/initilizationblock/Launch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson14/initilizationblock/VarArgsExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson14/initilizationblock/VarArgsExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson14/initilizationblock/classes/inner/LocalMethodOuter$1MethodInnerClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson14/initilizationblock/classes/inner/LocalMethodOuter$1MethodInnerClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson14/initilizationblock/classes/inner/LocalMethodOuter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson14/initilizationblock/classes/inner/LocalMethodOuter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson14/initilizationblock/classes/inner/Outer$InnerDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson14/initilizationblock/classes/inner/Outer$InnerDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson14/initilizationblock/classes/inner/Outer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson14/initilizationblock/classes/inner/Outer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson14/initilizationblock/classes/inner/StaticOuter$InnerStaticDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson14/initilizationblock/classes/inner/StaticOuter$InnerStaticDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson14/initilizationblock/classes/inner/StaticOuter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson14/initilizationblock/classes/inner/StaticOuter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson14/initilizationblock/classes/inner/aninymous/Launch.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson14/initilizationblock/classes/inner/aninymous/Launch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson14/initilizationblock/classes/inner/aninymous/Message.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson14/initilizationblock/classes/inner/aninymous/Message.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson14/initilizationblock/classes/inner/aninymous/MyClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson14/initilizationblock/classes/inner/aninymous/MyClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson14/initilizationblock/classes/inner/aninymous/ReleaseMessageInterface.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson14/initilizationblock/classes/inner/aninymous/ReleaseMessageInterface.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson14/initilizationblock/classes/inner/launch.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson14/initilizationblock/classes/inner/launch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson15/exceptions/SimpleExceptionExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson15/exceptions/SimpleExceptionExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson15/exceptions/customexception/MyException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson15/exceptions/customexception/MyException.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson15/exceptions/customexception/MyExceptionDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson15/exceptions/customexception/MyExceptionDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson15/list/ListExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson15/list/ListExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson15/list/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson15/list/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson16/map/MapExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson16/map/MapExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson17/dequeue/Lifo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson17/dequeue/Lifo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson17/iterator/IteratorExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson17/iterator/IteratorExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson17/queue/FifoPriority.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson17/queue/FifoPriority.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson3/ConditionsExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson3/ConditionsExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson3/Lesson3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson3/Lesson3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson3/ScannerExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson3/ScannerExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson4/arrays/ArraysExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson4/arrays/ArraysExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson4/loops/LoopsExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson4/loops/LoopsExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson4switchExample/SwitchExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson4switchExample/SwitchExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson5/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson5/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson5/methods/MethodsExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson5/methods/MethodsExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson5/methods/NewMethoswithParam.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson5/methods/NewMethoswithParam.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson5/twodimarray/DimArrayExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson5/twodimarray/DimArrayExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson6/ReverseExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson6/ReverseExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson6/RoundExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson6/RoundExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson6/SomeStringMethods.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson6/SomeStringMethods.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson6/Task.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson6/Task.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson7/Practice.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson7/Practice.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson7/SplitExmpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson7/SplitExmpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson7/randomizer/RandomExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson7/randomizer/RandomExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson7/stringbuff/StringBuffExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson7/stringbuff/StringBuffExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson7/stringpool/StringPoolExmpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson7/stringpool/StringPoolExmpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson8/Division.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson8/Division.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson8/oop/Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson8/oop/Cat.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson8/oop/Oop.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson8/oop/Oop.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson8/oop/inheritance/Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson8/oop/inheritance/Cat.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson8/oop/inheritance/Cow.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson8/oop/inheritance/Cow.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson8/oop/inheritance/Lion.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson8/oop/inheritance/Lion.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson8/oop/inheritance/Pets.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson8/oop/inheritance/Pets.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson8/oop/polimorfizm/PolimorfizmExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson8/oop/polimorfizm/PolimorfizmExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson9/oop/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson9/oop/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson9/oop/encapsulation/car/Bmw.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson9/oop/encapsulation/car/Bmw.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson9/oop/encapsulation/specific/Specification.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson9/oop/encapsulation/specific/Specification.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson9/oop/polimorfizm/overload/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson9/oop/polimorfizm/overload/Animal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson9/oop/polimorfizm/overload/Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson9/oop/polimorfizm/overload/Cat.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson9/oop/polimorfizm/overload/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson9/oop/polimorfizm/overload/Dog.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson9/oop/polimorfizm/overload/Start.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/hillel/lessons/lesson9/oop/polimorfizm/overload/Start.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/lesson18/annotations/testng/TestAnnotation.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/lesson18/annotations/testng/TestAnnotation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/lesson19/chrome/ChromeTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/lesson19/chrome/ChromeTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/lesson19/chrome/ChromeTestWithDriverManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/lesson19/chrome/ChromeTestWithDriverManager.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/lesson19/dataprovider/ProviderExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/lesson19/dataprovider/ProviderExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/lesson19/testsuite/FirstClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/lesson19/testsuite/FirstClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/lesson19/testsuite/SecondClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/lesson19/testsuite/SecondClass.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -436,7 +321,14 @@
       <option name="project" value="LOCAL" />
       <updated>1697406566283</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="initial commit">
+      <created>1721393022354</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1721393022354</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -464,7 +356,8 @@
     <MESSAGE value="lesson 30(11)" />
     <MESSAGE value="lesson 32" />
     <MESSAGE value="lesson 32-2" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson 32-2" />
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
